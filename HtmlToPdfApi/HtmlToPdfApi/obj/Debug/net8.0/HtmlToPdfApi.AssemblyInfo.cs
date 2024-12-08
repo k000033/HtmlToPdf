@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HtmlToPdfApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5abca6f8d6bbf06c822f3d1ef39033d2e17d039")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f505cd339c2357817f25584bf2df791ce20cc1a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("HtmlToPdfApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HtmlToPdfApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
