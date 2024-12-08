@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3nWkKllsI8OeeRw/8Jn2BLBVWGRZnfyKLpVUWkqbxdE=",
+  "Source": "HtmlToPdfApi",
+  "BasePath": "_content/HtmlToPdfApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
